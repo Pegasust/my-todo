@@ -1,3 +1,3 @@
-# Create T3 App
+# T3-TODO
 
-This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
+A todo app to figure out how to set up T3 stack.
