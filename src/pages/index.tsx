@@ -89,12 +89,13 @@ const TechnologyCard = ({
 };
 const CurrentTask = () => {
   const tasks: String[] = [
-    "Create login authentication. User should see custom message after login.",
+    // "Create login authentication. User should see custom message after login.",
     "Commit to Github",
     "Something else",
     "Another thing",
     "This makes the page big",
-    "Fix navbar transparency and scrolling problem"
+    "Fix navbar transparency and scrolling problem",
+    "Migrate this todo list to be user specific"
   ];
 
   return (
